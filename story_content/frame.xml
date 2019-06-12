@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000011" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified">
   <layouts>
-    <layout name="npnxnanbsnfns00000001011" font="Trebuchet MS" controllayout="npnxnanbsnfns00000001011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
-    <layout name="pxabnsnfns00000001011" font="Trebuchet MS" controllayout="pxabnsnfns00000001011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
-    <layout name="npxnabnsnfns00000001011" font="Trebuchet MS" controllayout="npxnabnsnfns00000001011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
-    <layout name="npnxnanbnsnfns00000001011" font="Trebuchet MS" controllayout="npnxnanbnsnfns00000001011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
-    <layout name="pxabnsnfns00000001010" font="Trebuchet MS" controllayout="pxabnsnfns00000001010" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
+    <layout name="npnxnanbsnfns00000000011" font="Trebuchet MS" controllayout="npnxnanbsnfns00000000011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
+    <layout name="pxabnsnfns00000000011" font="Trebuchet MS" controllayout="pxabnsnfns00000000011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
+    <layout name="npxnabnsnfns00000000011" font="Trebuchet MS" controllayout="npxnabnsnfns00000000011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
     <layout name="npnxnanbnsnfns00000000011" font="Trebuchet MS" controllayout="npnxnanbnsnfns00000000011" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
+    <layout name="pxabnsnfns00000000010" font="Trebuchet MS" controllayout="pxabnsnfns00000000010" colorscheme="npnxnanbnsnfns00000000011" string_table="npnxnanbnsnfns00000000011" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -20,7 +19,7 @@
           <option name="logo_enabled" value="false">
             <options />
           </option>
-          <option name="sidebar_enabled" value="true">
+          <option name="sidebar_enabled" value="false">
             <options>
               <option name="sidebarpos" value="left" />
               <option name="closed" value="true" />
@@ -29,7 +28,7 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
-              <listitem name="transcript" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
               <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
             </listitems>
@@ -90,7 +89,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00000001011">
+    <control_layout name="npnxnanbsnfns00000000011">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -105,7 +104,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
+      <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
@@ -113,7 +112,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000001011">
+    <control_layout name="pxabnsnfns00000000011">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -128,7 +127,7 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
+      <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
@@ -136,7 +135,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00000001011">
+    <control_layout name="npxnabnsnfns00000000011">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -151,59 +150,13 @@
       <control name="submitall" enabled="false" />
       <control name="resources" enabled="false" />
       <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
+      <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="npnxnanbnsnfns00000001011">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="true" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="pxabnsnfns00000001010">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="true" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="true" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="false" />
     </control_layout>
     <control_layout name="npnxnanbnsnfns00000000011">
       <control name="volume" enabled="false" />
@@ -227,6 +180,29 @@
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00000000010">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1294,11 +1270,36 @@
         <slidelink slideid="_player.61t6UZcvlZf" displaytext="Intro" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.61t6UZcvlZf.6NSn6MOZefK" displaytext="Start Screen" expand="false" type="slide" />
-            <slidelink slideid="_player.61t6UZcvlZf.6pPfff3KsiE" displaytext="Home Page" expand="false" type="slide" />
-            <slidelink slideid="_player.61t6UZcvlZf.6QuL7DhaphN" displaytext="Course Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.61t6UZcvlZf.6lZaFmwRsPS" displaytext="Earn A Badge" expand="false" type="slide" />
-            <slidelink slideid="_player.61t6UZcvlZf.5gA5fGAPorQ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.61t6UZcvlZf.6pPfff3KsiE" displaytext="Introduction-01" expand="false" type="slide" />
+            <slidelink slideid="_player.61t6UZcvlZf.6PzouPJQsQU" displaytext="Introduction-02" expand="false" type="slide" />
+            <slidelink slideid="_player.61t6UZcvlZf.6CzZ7IJubFC" displaytext="Introduction-03" expand="false" type="slide" />
+            <slidelink slideid="_player.61t6UZcvlZf.6QuL7DhaphN" displaytext="Start Course" expand="false" type="slide" />
+            <slidelink slideid="_player.61t6UZcvlZf.6lZaFmwRsPS" displaytext="Get Certified" expand="false" type="slide" />
             <slidelink slideid="_player.61t6UZcvlZf.6rcLYcCsVlN" displaytext="Learn More" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Y6QVtWkgmN" displaytext="Certification Module 1" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5Y6QVtWkgmN.6jqRgAPFgos" displaytext="Module 1 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y6QVtWkgmN.5gxDLcfLGwm" displaytext="Module 1 Certificate" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6Avbf5abaQJ" displaytext="Certification Module 2" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6Avbf5abaQJ.6eXw86444iW" displaytext="Module 2 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6Avbf5abaQJ.6iSHrzpJ7Uy" displaytext="Module 2 Certificate" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6UI3spvVfzE" displaytext="Certification Module 3" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6UI3spvVfzE.5bmn8MYVTia" displaytext="Module 3 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6UI3spvVfzE.6on0YGyeJUl" displaytext="Module 3 Certificate" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6773BIsJrXb" displaytext="Certification Module 4" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6773BIsJrXb.5nke61VJRTh" displaytext="Module 4 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.6773BIsJrXb.68yS4OohCws" displaytext="Module 4 Certificate" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5ZViCO3NcID" displaytext="Module Master" expand="true" type="slide">
@@ -1313,44 +1314,6 @@
     </outline>
   </nav_data>
   <resource_data description="" />
-  <transcript_data>
-    <slidetranscripts>
-      <slidetranscript slideid="61t6UZcvlZf.6pPfff3KsiE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="test transcript test transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcript" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61t6UZcvlZf.6QuL7DhaphN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="test transcript test transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcript" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61t6UZcvlZf.6lZaFmwRsPS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="test transcript test transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcript" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="61t6UZcvlZf.6rcLYcCsVlN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="test transcript test transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcript" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5ZViCO3NcID.6UEYUQV6N0X" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Span Text="test transcript test transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcripttest transcript" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-    </slidetranscripts>
-  </transcript_data>
+  <transcript_data />
   <glossary_data />
 </bwFrame>
