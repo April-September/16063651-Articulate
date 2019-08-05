@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="TM for Technical Writers" />
+              <option name="title_text" value="TM_for_Technical_Writers" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
