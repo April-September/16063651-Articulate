@@ -1315,22 +1315,22 @@
         </slidelink>
         <slidelink slideid="_player.5nXtwc0V7Zu" displaytext="Module_03" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5nXtwc0V7Zu.5sLFSYzibqr" displaytext="Lesson2 Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6ZcdwvH1O4B" displaytext="Lesson2 Content" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6Iwfh7iD81s" displaytext="Lesson2 Summary" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5rU4ND8DhBy" displaytext="Lesson2 Quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5ic1MU6jEVt" displaytext="Lesson3 Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.62v1ZTvX7C0" displaytext="Lesson3 Quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6RQYJYoNHYO" displaytext="Lesson5 Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6hkbGIU5F9q" displaytext="Lesson5 Summary" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5fiT4tQ0th9" displaytext="Lesson5 Quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5du423FIUJa" displaytext="Lesson7 Overview" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6FC1JRDwTkm" displaytext="Lesson7 Summary" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5leKSRjk6Dg" displaytext="Lesson7 Quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5f45hWBzVtv" displaytext="Lesson5 Content" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6IbSO8vsxou" displaytext="Lesson7 Content" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.6NL9fnJafQg" displaytext="Lesson3 Content" expand="false" type="slide" />
-            <slidelink slideid="_player.5nXtwc0V7Zu.5eB1da96R9L" displaytext="Lesson3 Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5sLFSYzibqr" displaytext="Lesson1 Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6ZcdwvH1O4B" displaytext="Lesson1 Content" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6Iwfh7iD81s" displaytext="Lesson1 Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5rU4ND8DhBy" displaytext="Lesson1 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5ic1MU6jEVt" displaytext="Lesson2 Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.62v1ZTvX7C0" displaytext="Lesson2 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6RQYJYoNHYO" displaytext="Lesson3 Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6hkbGIU5F9q" displaytext="Lesson3 Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5fiT4tQ0th9" displaytext="Lesson3 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5du423FIUJa" displaytext="Lesson4 Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6FC1JRDwTkm" displaytext="Lesson4 Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5leKSRjk6Dg" displaytext="Lesson4 Quiz" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5f45hWBzVtv" displaytext="Lesson3 Content" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6IbSO8vsxou" displaytext="Lesson4 Content" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.6NL9fnJafQg" displaytext="Lesson2 Content" expand="false" type="slide" />
+            <slidelink slideid="_player.5nXtwc0V7Zu.5eB1da96R9L" displaytext="Lesson2 Summary" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6YTlINmhn7t" displaytext="Module_04" expand="true" type="slide">
@@ -1463,7 +1463,7 @@
             <slidelink slideid="_player.6ZOGOOhM7RC.5hU91Qfvxcs" displaytext="Lesson - Hotspot" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5hYp3YzXc5t" displaytext="Mod_03_Lesson_02_Quiz" expand="true" type="slide">
+        <slidelink slideid="_player.5hYp3YzXc5t" displaytext="Mod_03_Lesson_01_Quiz" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5hYp3YzXc5t.6XYWL9nwtc5" displaytext="Lesson - True false" expand="false" type="slide" />
             <slidelink slideid="_player.5hYp3YzXc5t.5V7H8CRi2sD" displaytext="Lesson - Multiple choice" expand="false" type="slide" />
@@ -1471,7 +1471,7 @@
             <slidelink slideid="_player.5hYp3YzXc5t.5qQxVJp0kOR" displaytext="Lesson - Hotspot" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6ZPZJyt6GkX" displaytext="Mod_03_Lesson_03_Quiz" expand="true" type="slide">
+        <slidelink slideid="_player.6ZPZJyt6GkX" displaytext="Mod_03_Lesson_02_Quiz" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ZPZJyt6GkX.6ErrjudQvVJ" displaytext="Lesson - True false" expand="false" type="slide" />
             <slidelink slideid="_player.6ZPZJyt6GkX.5wGDl1bXwgS" displaytext="Lesson - Multiple choice" expand="false" type="slide" />
@@ -1479,7 +1479,7 @@
             <slidelink slideid="_player.6ZPZJyt6GkX.5p03jdsfQEQ" displaytext="Lesson - Hotspot" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6An58Puxb8h" displaytext="Mod_03_Lesson_05_Quiz" expand="true" type="slide">
+        <slidelink slideid="_player.6An58Puxb8h" displaytext="Mod_03_Lesson_03_Quiz" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6An58Puxb8h.6iG2RYRPqjs" displaytext="Lesson - True false" expand="false" type="slide" />
             <slidelink slideid="_player.6An58Puxb8h.5bY7cbXi6Fi" displaytext="Lesson - Multiple choice" expand="false" type="slide" />
@@ -1487,7 +1487,7 @@
             <slidelink slideid="_player.6An58Puxb8h.6nh2WZAxLub" displaytext="Lesson - Hotspot" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5iHXi0AujVw" displaytext="Mod_03_Lesson_07_Quiz" expand="true" type="slide">
+        <slidelink slideid="_player.5iHXi0AujVw" displaytext="Mod_03_Lesson_04_Quiz" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5iHXi0AujVw.5iRZkXzzWbZ" displaytext="Lesson - True false" expand="false" type="slide" />
             <slidelink slideid="_player.5iHXi0AujVw.6Of8QkmRdwc" displaytext="Lesson - Multiple choice" expand="false" type="slide" />
